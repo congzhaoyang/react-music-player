@@ -2071,9 +2071,16 @@ module.exports = ReactPropTypesSecret;
 
 /***/ }),
 /* 18 */
-/***/ (function(module, exports, __webpack_require__) {
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-var react = __webpack_require__(19)
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(19);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__index_less__ = __webpack_require__(37);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__index_less___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__index_less__);
+
+
 
 console.log(react.version)
 
@@ -4717,6 +4724,12 @@ function onlyChild(children) {
 
 module.exports = onlyChild;
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(0)))
+
+/***/ }),
+/* 37 */
+/***/ (function(module, exports) {
+
+throw new Error("Module parse failed: /Users/admin/Project/react-music-player/app/index.less Unexpected token (1:5)\nYou may need an appropriate loader to handle this file type.\n| body {\n| \t#root {\n| \t\tfont-size: 16px;");
 
 /***/ })
 /******/ ]);
